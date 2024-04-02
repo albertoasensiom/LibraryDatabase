@@ -8,3 +8,13 @@
 - Emphasis on backup strategies, journaling, integrity measures, authentication, encryption protocols, and legal considerations.
 - Demonstrates a comprehensive understanding of database design, SQL operations, NoSQL databases, and essential security measures.
 
+**Screenshots:**
+
+Diagram Model
+![Screenshot 1](https://github.com/albertoasensiom/LibraryDatabase/blob/main/Screenshots/1.jpg)
+
+Creating database with DLL Code
+![Screenshot 3](https://github.com/albertoasensiom/LibraryDatabase/blob/main/Screenshots/3.jpg)
+
+Database with attributes
+![Screenshot 2](https://github.com/albertoasensiom/LibraryDatabase/blob/main/Screenshots/2.jpg)
